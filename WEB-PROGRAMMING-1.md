@@ -20,6 +20,63 @@ Kenapa HTML Bukan Bahasa Pemrograman Bisa di Simak Disini
 
 https://makinrajin.com/html-bukan-bahasa-pemrograman/
 
+
+	#### Membuat file html sederhana
+	Untuk membuat file html anda cukup membuat file dengan menggunakan text editor. Kemudian simpan file tersebut dengan nama yang anda kehendaki dengan ekstensi `.html`. Selamat anda sudah dapat membuat file html \(^0^)/
+
+	#### Memahami struktur HTML
+	HTML sendiri memiliki struktur hirarkiah sebagai berikut :
+	```html
+	<html>
+	  <head></head>
+	  <body></body>
+	</html>
+	```
+	Jadi untuk struktur HTML harus memiliki tag html yang didalamnya terdapat tag head dan body (baik tag pembuka dan tag penutup)
+
+	#### Menggunakan komentar HTML
+	Untuk memberikan komentar anda dapat menyisipkan tag `<!-- -->` berikut pada konten yang dikehendaki. Sebagai contoh :
+	```
+	  <!-- konten yang dikehendaki -->
+	```
+	atau jika anda menggunakan text editor atom anda dapat menekan `CTRL + /` pada baris yang akan anda komentar.
+
+	#### Menulis Judul menggunakan Heading
+	Untuk menulis judul anda dapat memilih menggunakan tag `h1`, `h2` sampai `h6`. Besar kecilnya heading mempengaruhi besar kecilnya ukuran judul. Jadi semakin besar heading semakin kecil ukuran judulnya dan sebaliknya.
+	Sebagai contoh :
+	```html
+	<h1>Judul dengan h1</h1>
+	```
+	# Judul dengan h1
+	```html
+	<h2>Judul dengan h2</h2>
+	```
+	## Judul dengan h2
+	```html
+	<h6>Judul dengan h6</h6>
+	```
+	## Judul dengan h6
+
+	#### Menulis kalimat atau paragraf menggunakan Paragraph
+	Untuk menulis kalimat anda dapat meletakkanya di dalam tag `p`. Sebagai contoh :
+	```html
+	<p>
+	  Ini kalimat pertama. Ini kalimat kedua. Ini kalimat ketiga. Ini kalimat keempat. Ini kalimat kelima. Ini kalimat keenam. Ini kalimat ketujuh. Ini kalimat kedelapan. Ini kalimat kesembilan. Ini kalimat kesepuluh.
+	</p>
+	```
+
+	#### Mengganti baris menggunakan Line Breaker
+	Untuk mengganti baris anda dapat menggunakan tag `br`. Sebagai contoh :
+	```html
+	<p>
+	  Ini baris pertama.<br>
+	  Ini baris kedua.<br>
+	  Ini baris ketiga.<br>
+	  Ini baris keempat.<br>
+	  Ini baris kelima.<br>
+	</p>
+	```
+
 Cara penulisan html kurang lebihnya seperti ini:
 
 ```html
