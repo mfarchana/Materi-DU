@@ -422,10 +422,13 @@ Ada beberapa perintah dasar git dalam terminal, yang paling banyak digunakan yai
   ```
 
 ---
+
+---
 ## Tugas
 
 Jika Sudah Paham , Coba kalian edit web kalian dan Tambahkan Puisi :wink::wink:
- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi
+ Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
+
 ---
 
 ## Menggunakan Bootstrap
