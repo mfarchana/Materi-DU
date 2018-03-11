@@ -421,6 +421,12 @@ Ada beberapa perintah dasar git dalam terminal, yang paling banyak digunakan yai
   $ git push origin master
   ```
 
+---
+## Tugas
+
+Jika Sudah Paham , Coba kalian edit web kalian dan Tambahkan Puisi :wink::wink:
+ Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi
+---
 
 ## Menggunakan Bootstrap
 Bootstrap merupakan CSS Framework. Untuk dapat menggunakan bootstrap dapat anda lihat di http://getbootstrap.com.
