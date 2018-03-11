@@ -426,8 +426,8 @@ Ada beberapa perintah dasar git dalam terminal, yang paling banyak digunakan yai
 ---
 ## Tugas
 
-Jika Sudah Paham , Coba kalian edit web kalian dan Tambahkan Puisi :wink::wink:
- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
+- Jika Sudah Paham , Coba kalian edit web kalian semenarik mungkin dan Tambahkan Puisi  :wink::wink:
+- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
 
 ---
 
