@@ -332,6 +332,15 @@ p.namaClass{
 
 ---
 
+
+---
+## Tugas
+
+- Jika Sudah Paham , Coba kalian edit web kalian semenarik mungkin dan Tambahkan Puisi  :wink::wink:
+- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
+
+---
+
 ---
 ## Referensi dan Tambahan
 - :bulb: [Sololearn course CSS](https://www.sololearn.com/Course/CSS/)
@@ -423,13 +432,7 @@ Ada beberapa perintah dasar git dalam terminal, yang paling banyak digunakan yai
 
 ---
 
----
-## Tugas
 
-- Jika Sudah Paham , Coba kalian edit web kalian semenarik mungkin dan Tambahkan Puisi  :wink::wink:
-- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
-
----
 
 ## Menggunakan Bootstrap
 Bootstrap merupakan CSS Framework. Untuk dapat menggunakan bootstrap dapat anda lihat di http://getbootstrap.com.
