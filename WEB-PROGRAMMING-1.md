@@ -348,15 +348,7 @@ p.namaClass{
   }
   ```
 
-- Mengatur CSS pada body
 
-  ```css
-    body {
-    font-family: Arial;
-    padding: 10px;
-    background: #f1f1f1;
-}
- ```
 
   - Mengatur CSS Pada Header 
 
