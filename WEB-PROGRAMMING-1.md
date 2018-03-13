@@ -453,27 +453,8 @@ body{
  ```
 
 
-- Membuat Sidebar
-
-  ```css
-.sidebar::after {
-    content: "";
-    display: table;
-    clear: both;
-}
- ```
 
 
-  - Membuat Footer 
-
-  ```css
-.footer {
-    padding: 20px;
-    text-align: center;
-    background: #ddd;
-    margin-top: 20px;
-}
- ```
    - Membuat Web Responsive
   
  @media Merupakan sebuah teknik css layout yang membebaskan kita untuk menyeting tampilan dengan CSS di berbagai resolusi dan lebar, tinggi daripada browser yang sedang kita gunakan secara spesifik. Maksudnya adalah, kita bisa dengan bebas menyeting layout pada ukuran 1024 x 800 atau 800 x 400
