@@ -346,7 +346,22 @@ p.namaClass{
     box-sizing:border-box;
 
   }
+
   ```
+
+
+  - Mengatur CSS Pada Body
+
+  ```css
+
+body{
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+}
+
+ ```
+
 
 
 
@@ -364,6 +379,8 @@ p.namaClass{
 }
 
  ```
+
+
 
  - Mengatur Style Pada Navigation Bar
 ```css
