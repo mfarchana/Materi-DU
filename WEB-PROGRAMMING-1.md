@@ -465,7 +465,19 @@ body{
 
  ```
 
+ - Membuat Footer
 
+
+  ```css
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+}
+
+
+ ```
 
 
    - Membuat Web Responsive
