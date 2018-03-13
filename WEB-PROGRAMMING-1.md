@@ -522,19 +522,19 @@ body{
 
 <div class="sidebar">
   <div class="leftcolumn">
-    <div class="card">
+    <div class="backartikel">
       <h2>Judul</h2>
       <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <div class="images" style="height:200px;">Image</div>
       <p>Tulis Apa aja </p>
 <p>Tulis Sesukamu disini</p>
     </div>
 
 
-    <div class="card">
+    <div class="backartikel">
       <h2>Judul</h2>
       <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <div class="images" style="height:200px;">Image</div>
       <p>Tulis Apa Aja</p>
       <p>Tulis Sesukamu disini</p>
 
@@ -544,18 +544,18 @@ body{
 
 
   <div class="rightcolumn">
-    <div class="card">
+    <div class="backartikel">
       <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
+      <div class="images" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
-    <div class="card">
+    <div class="backartikel">
       <h3>Popular Post</h3>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
-      <div class="fakeimg"><p>Image</p></div>
+      <div class="images"><p>Image</p></div>
+      <div class="images"><p>Image</p></div>
+      <div class="images"><p>Image</p></div>
     </div>
-    <div class="card">
+    <div class="backartikel">
       <h3>Follow Me</h3>
       <p>Some text..</p>
     </div>
