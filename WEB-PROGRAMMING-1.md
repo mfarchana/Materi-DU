@@ -405,6 +405,43 @@ body{
 
 ```
 
+  - Membuat Kolom Sebelah Kiri
+
+  ```css
+.leftcolumn {   
+    float: left;
+    width: 75%;
+}
+ ```
+
+  - Membuat Kolom Sebelah Kanan
+
+  ```css
+.rightcolumn {
+    float: left;
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+}
+
+ ```
+
+  - Membuat Gambar
+
+  ```css
+.image {
+
+    background-image: url();
+    width: 100%;
+    padding: 20px;
+}
+
+ ```
+
+
+
+
+
 
 ---
 
