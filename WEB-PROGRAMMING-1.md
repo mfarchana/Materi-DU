@@ -332,6 +332,75 @@ p.namaClass{
 
 ---
 
+### Layouting
+
+
+
+
+![Layout](assets/layout.png)
+
+- box-sizing adalah css property yang digunakan untuk merubah kalkulasi dalam mengukur lebar element. Fitur ini cukup berguna karena sedikit menghilangkan pusing yang biasa timbul ketika kita sedang membuat layout web. Dimana biasanya kita menentukan lebar layout yang kita inginkan terlebih dahulu, setelah itu menentukan lebar sidebar dan conten web
+
+ ```css
+  .*{
+    box-sizing:border-box;
+
+  }
+  ```
+
+- Mengatur CSS pada body
+
+  ```css
+    body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+}
+ ```
+
+  - Mengatur CSS Pada Header 
+  ```css
+.header {
+    padding: 30px;
+    text-align: center;
+    background: white;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+ ```
+
+ - Mengatur Style Pada Navigation Bar
+```css
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+```
+
+
+---
+
+
+
+
 
 ---
 ## Tugas
