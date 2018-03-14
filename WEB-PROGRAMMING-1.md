@@ -1,8 +1,6 @@
 ## Review Materi Pertemuan Pertama Doscom University
 
 ### HTML
-#### Membuat file html sederhana
-Untuk membuat file html anda cukup membuat file dengan menggunakan text editor. Kemudian simpan file tersebut dengan nama yang anda kehendaki dengan ekstensi `.html`. Selamat anda sudah dapat membuat file html \(^0^)/
 
 #### Memahami struktur HTML
 HTML sendiri memiliki struktur hirarkiah sebagai berikut :
@@ -337,7 +335,7 @@ p.namaClass{
 
 
 
-![Layout](assets/output.png)
+![Layout](assets/layout.png)
 
 - box-sizing adalah css property yang digunakan untuk merubah kalkulasi dalam mengukur lebar element. Fitur ini cukup berguna karena sedikit menghilangkan pusing yang biasa timbul ketika kita sedang membuat layout web. Dimana biasanya kita menentukan lebar layout yang kita inginkan terlebih dahulu, setelah itu menentukan lebar sidebar dan conten web
 
@@ -505,17 +503,18 @@ body{
 - Bagian HTML
 
 ```html
+<body>
+
 
 <div class="header">
   <h1>My Website</h1>
-  <p>Deksripsi Website</p>
+  <p>Deskripi Website</p>
 </div>
 
 <div class="topnav">
   <a href="#">Link</a>
   <a href="#">Link</a>
   <a href="#">Link</a>
-  <a href="#" style="float:right">Link</a>
 </div>
 
 
@@ -529,15 +528,19 @@ body{
       <p>Tulis Apa aja </p>
     <p>Tulis Sesukamu disini</p>
   
+    <a href="link.html">Read More</a>
+
     </div>
 
 
     <div class="backartikel">
       <h2>Judul</h2>
       <h5>Deskripsi judul, 17 Maret 2018</h5>
-      <div class="images" style="height:200px;">Image</div>
+      <div class="images" style="height:200px;"></div>
       <p>Tulis Apa Aja</p>
       <p>Tulis Sesukamu disini</p>
+
+      <a href="link.html">Read More</a>
 
     </div>
   </div>
@@ -547,26 +550,33 @@ body{
   <div class="rightcolumn">
     <div class="backartikel">
       <h2>About Me</h2>
-      <div class="images" style="height:100px;">Image</div>
+      <img src="https://img00.deviantart.net/45c9/i/2013/299/6/d/monkey_d__luffy_render_by_annaeditions24-d6rulwm.png" width="120px" alt="">
       <p>Aku adalah mahasiswa teknik informatika UDINUS</p>
     </div>
     <div class="backartikel">
       <h3>Popular Post</h3>
-      <div class="images"><p>Image</p></div>
-      <div class="images"><p>Image</p></div>
-      <div class="images"><p>Image</p></div>
+<a href="linkmu.html">Belajar HTML</a><br>
+<a href="linkmu.html">Belajar HTML</a><br>
+<a href="linkmu.html">Belajar HTML</a><br>
+
+
     </div>
     <div class="backartikel">
       <h3>Follow Me</h3>
-      <p>Follow yaaa</p>
+        
+      <a href="github,com">Github</a><br>
+      <a href="facebook.com">Facebook</a><br>
+      <a href="instagram.com">Instagram</a><br>
+    
     </div>
   </div>
 </div>
 
 <div class="footer">
-  <h2>Footer</h2>
+  <h1>NAMAKU</h1>
 </div>
 
+</body>
 
 ```
 
