@@ -332,12 +332,12 @@ p.namaClass{
 
 ---
 
-### Layouting
+### Membuat Website Sederhana
 
 
 
 
-![Layout](assets/layout.png)
+![Layout](assets/output.png)
 
 - box-sizing adalah css property yang digunakan untuk merubah kalkulasi dalam mengukur lebar element. Fitur ini cukup berguna karena sedikit menghilangkan pusing yang biasa timbul ketika kita sedang membuat layout web. Dimana biasanya kita menentukan lebar layout yang kita inginkan terlebih dahulu, setelah itu menentukan lebar sidebar dan conten web
 
@@ -508,7 +508,7 @@ body{
 
 <div class="header">
   <h1>My Website</h1>
-  <p>Resize the browser window to see the effect.</p>
+  <p>Deksripsi Website</p>
 </div>
 
 <div class="topnav">
@@ -524,16 +524,17 @@ body{
   <div class="leftcolumn">
     <div class="backartikel">
       <h2>Judul</h2>
-      <h5>Title description, Dec 7, 2017</h5>
+      <h5>Deskripsi, 17 Maret 2018</h5>
       <div class="images" style="height:200px;">Image</div>
       <p>Tulis Apa aja </p>
-<p>Tulis Sesukamu disini</p>
+    <p>Tulis Sesukamu disini</p>
+  
     </div>
 
 
     <div class="backartikel">
       <h2>Judul</h2>
-      <h5>Title description, Sep 2, 2017</h5>
+      <h5>Deskripsi judul, 17 Maret 2018</h5>
       <div class="images" style="height:200px;">Image</div>
       <p>Tulis Apa Aja</p>
       <p>Tulis Sesukamu disini</p>
@@ -547,7 +548,7 @@ body{
     <div class="backartikel">
       <h2>About Me</h2>
       <div class="images" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p>Aku adalah mahasiswa teknik informatika UDINUS</p>
     </div>
     <div class="backartikel">
       <h3>Popular Post</h3>
@@ -557,7 +558,7 @@ body{
     </div>
     <div class="backartikel">
       <h3>Follow Me</h3>
-      <p>Some text..</p>
+      <p>Follow yaaa</p>
     </div>
   </div>
 </div>
@@ -579,7 +580,6 @@ body{
 ## Tugas
 
 - Jika Sudah Paham , Coba kalian edit web kalian semenarik mungkin dan Tambahkan Puisi  :wink::wink:
-- Kemuadia Upload Ke Repository Github Yang kaling Bikin Tadi.
 
 ---
 
@@ -671,6 +671,14 @@ Ada beberapa perintah dasar git dalam terminal, yang paling banyak digunakan yai
   ```bash
   $ git push origin master
   ```
+
+---
+
+---
+## TAMBAHAN
+
+
+- Jika kalian sudah membuat tugasnya ,  Upload tugas tersebut ke repository github yang kalian buat.
 
 ---
 
